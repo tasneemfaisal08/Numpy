@@ -2,7 +2,7 @@
 This repository is a comprehensive resource for learning and practicing NumPy.
 
 # Source of Information
-### Sources of Information
+
 The explanations and examples in this repository are mainly based on:
 
 - **[W3Schools NumPy Tutorial](https://www.w3schools.com/python/numpy_intro.asp)**
