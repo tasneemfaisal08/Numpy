@@ -1,6 +1,10 @@
 # Numpy
 This repository is a comprehensive resource for learning and practicing NumPy.
 
+# Source of Information
+The content and examples in this repository are mainly based on the **NumPy tutorial from W3Schools**.  
+You can check the full course here: [W3Schools NumPy Tutorial]([https://www.w3schools.com/python/numpy_intro.asp](https://www.w3schools.com/python/numpy/default.asp))
+
 # What is NumPy?
 NumPy is a Python library used for working with arrays.
 
